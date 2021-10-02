@@ -1,5 +1,5 @@
 # eightbit-resources
-A list of resources - probably only for tutorials, but who knows?
+A list of resources for various and sundry geeks.
 
 ## LinkBuilder.xlsx
 
